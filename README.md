@@ -1,2 +1,8 @@
 # ML-classification-model
-Develop a predictive model.
+- LogisticRegression
+- SVM
+- RandomForestClassifier
+- DecisionTreeClassifier
+- KNeighborsClassifier
+- GradientBoostingClassifier
+- VotingClassifier
