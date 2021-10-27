@@ -1,5 +1,6 @@
 # Develop a predictive model to determine if a loan application will be approved or not.
-## ML-classification-model used:
+
+## Model used:
 - `LogisticRegression`
 - `SVM`
 - `RandomForestClassifier`
@@ -7,3 +8,7 @@
 - `KNeighborsClassifier`
 - `GradientBoostingClassifier`
 - `VotingClassifier`
+
+## Evaluation metrics:
+- AUC-ROC and AUC-PR 
+- Accuracy, Sensitivity, Specificity
